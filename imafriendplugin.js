@@ -27,21 +27,12 @@ of the authors and should not be interpreted as representing official policies,
 either expressed or implied, of the FreeBSD Project.
 */
 
-/*
-* DiceFriends, a plugin for Better Battlelog that adds the playing Dice employees to your comcenter.
-*
-* @author azixMcAze
-* @version 1.1.2
-* @date 17.10.2012
-* @url https://github.com/azixMcAze/DiceFriends
-*
-* Released under the BSD License.
-*/
+
 
 DiceFriendsPlugin = {
   playerList : [],
 	updateInterval : 60*5,
-	dicePlatoon : '/platoon/2832655391300702826/listmembers/',
+	dicePlatoon : '/platoon/2832655241305613109/listmembers/',
 	showingDiceFriends : true,
 	platformIcon : {
 		'pc' : 'common-game-2-1',
